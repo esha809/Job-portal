@@ -46,6 +46,7 @@ python manage.py migrate
 python manage.py runserver
 
 *You will find result*
+
 http://127.0.0.1:8000/
 
 
